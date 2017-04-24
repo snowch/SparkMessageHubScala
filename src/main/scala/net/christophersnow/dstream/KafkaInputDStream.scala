@@ -1,5 +1,7 @@
 package net.christophersnow.dstream
 
+import net.christophersnow.config.MessageHubConfig
+
 import scala.collection.JavaConversions._
 import scala.collection.Map
 import scala.reflect.ClassTag
@@ -15,7 +17,6 @@ import org.apache.spark.streaming.receiver.Receiver
 import org.apache.log4j.Level
 import org.apache.log4j.Logger
 import java.util.Properties
-import com.ibm.cds.spark.samples.config.MessageHubConfig
 import org.apache.kafka.common.security.JaasUtils
 
 class KafkaInputDStream[
