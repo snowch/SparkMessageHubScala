@@ -1,4 +1,4 @@
-package com.ibm.cds.spark.samples.config
+package net.christophersnow.config
 
 import org.apache.kafka.clients.CommonClientConfigs
 import java.io.FileInputStream

@@ -1,4 +1,4 @@
-package com.ibm.cds.spark.samples.config
+package net.christophersnow.config
 
 import scala.collection.mutable.ListBuffer
 import scala.reflect.ClassTag

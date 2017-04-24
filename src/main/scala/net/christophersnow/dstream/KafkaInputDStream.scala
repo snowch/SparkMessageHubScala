@@ -1,4 +1,4 @@
-package com.ibm.cds.spark.samples.dstream
+package net.christophersnow.dstream
 
 import scala.collection.JavaConversions._
 import scala.collection.Map
