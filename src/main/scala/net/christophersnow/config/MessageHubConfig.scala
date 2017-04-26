@@ -20,7 +20,7 @@ class MessageHubConfig extends DemoConfig{
     
     config = config ++ Map[String,String]( 
       registerConfigKey(CommonClientConfigs.BOOTSTRAP_SERVERS_CONFIG),
-      registerConfigKey(CommonClientConfigs.CLIENT_ID_CONFIG, "biginsights.examples.messagehub.consumer"),
+      registerConfigKey(CommonClientConfigs.CLIENT_ID_CONFIG, "dsx.examples.messagehub.consumer"),
       
       // You may want to change these values
       registerConfigKey("auto.offset.reset", "latest"),
