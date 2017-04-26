@@ -12,4 +12,5 @@ The notebooks have been tested against Spark 1.6 and may not work against Spark 
 
 ### See also
 
-See here for a similar project that runs on IBM BigInsights on Cloud - https://github.com/IBM-Bluemix/BigInsights-on-Apache-Hadoop/tree/master/examples/SparkWordCountScala
+- See here for a similar project that runs on IBM BigInsights on Cloud - https://github.com/IBM-Bluemix/BigInsights-on-Apache-Hadoop/tree/master/examples/SparkMessageHubScala
+- Please add your +1 to this [ticket](https://github.com/ibm-messaging/message-hub-samples/issues/11) to add similar examples to this example for pyspark and spark 2.x
