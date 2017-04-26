@@ -1,5 +1,11 @@
-Connect to messagehub from spark as a service on bluemix.
+### Overview
 
-First, add your credentials to the notebook and run it: [setup_scala_libs.ipynb](./setup_scala_libs.ipynb)
+This project provides a hello world style example that connects to messagehub from spark as a service on bluemix.
 
-Next, add your credentials to the notebook and run it: [Message_Hub_Consumer.ipynb](./Message_Hub_Consumer.ipynb)
+### Instructions
+
+Import the [notebooks](./notebooks) into DSX and follow the instructions.
+
+### Environment
+
+The notebooks have been tested against Spark 1.6 and may not work against Spark 2.0.
