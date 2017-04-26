@@ -4,7 +4,7 @@ This project provides a hello world style example that connects to messagehub fr
 
 ### Instructions
 
-Import the [notebooks](./notebooks) into DSX and follow the instructions.
+Import the [notebooks](./notebooks) into DSX and follow the instructions.  You should inspect the code in the folder [/src/main/scala/net/christophersnow](./src) to familiarise yourself with what it is doing. 
 
 ### Environment
 
