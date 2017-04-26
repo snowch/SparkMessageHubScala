@@ -9,3 +9,7 @@ Import the [notebooks](./notebooks) into DSX and follow the instructions.  After
 ### Environment
 
 The notebooks have been tested against Spark 1.6 and may not work against Spark 2.0.
+
+### See also
+
+See here for a similar project that runs on IBM BigInsights on Cloud - https://github.com/IBM-Bluemix/BigInsights-on-Apache-Hadoop/tree/master/examples/SparkWordCountScala
