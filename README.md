@@ -1,6 +1,6 @@
 ### Overview
 
-This project provides a hello world style example that connects to messagehub from spark as a service on bluemix.
+This project provides a hello world style example that connects to messagehub from spark as a service on bluemix via Data Science Experience (DSX).
 
 ### Instructions
 
