@@ -17,4 +17,4 @@ The notebooks have been tested against Spark 1.6 and may not work against Spark 
 
 ### Issues / Questions
 
-Please create an [issue](./issues) if you have any questions or if you encounter a problem with this project.
+Please create an [issue](https://github.com/snowch/SparkMessageHubScala/issues) if you have any questions or if you encounter a problem with this project.
